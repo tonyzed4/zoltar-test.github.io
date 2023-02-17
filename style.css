@@ -1,0 +1,27 @@
+body {
+     background-color: red;
+}
+
+h1  {
+     color:red;
+     font-family:sans serif;
+     background-color: white;
+     border: 5px solid red;
+}
+
+p  {
+      color: black;
+      background-color: yellow;
+      border: 2px dotted orange;
+}
+
+h3  {
+      color: black;
+      background-color: white;
+      border: 3px double pink;
+}
+
+gif {
+      border: 5px solid orange;
+}
+
